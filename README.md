@@ -13,15 +13,15 @@ This project helps the fictitious Disaster Reporting Network visualize data on w
 
 ## Deliverable One
 
-Using JavaScript, Leaflet.js, and geoJSON data, an additional layer was added to the earthquakes map showing the location of tectonic plates. See a screenshot of the tectonic plates [with]() and [without]() the earthquake information.
+Using JavaScript, Leaflet.js, and geoJSON data, an additional layer was added to the earthquakes map showing the location of tectonic plates. See a screenshot of the tectonic plates [with](https://github.com/josephrodini/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/platesWith.PNG) and [without](https://github.com/josephrodini/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/platesWithout.PNG) the earthquake information.
 
 ## Deliverable Two
 
-Using JavaScript, Leaflet.js, and geoJSON data, major earthquake data was added to the map using d3.json(). A color and diameter for the circle marker for each earthquake was added in proportion to the magnitude of that earthquake, and a popup marker was added for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer. See [the large earthquakes]().
+Using JavaScript, Leaflet.js, and geoJSON data, major earthquake data was added to the map using d3.json(). A color and diameter for the circle marker for each earthquake was added in proportion to the magnitude of that earthquake, and a popup marker was added for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer. See [the large earthquakes](https://github.com/josephrodini/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/majorEqs.PNG).
 
 ## Deliverable Three
 
-Using JavaScript and Leaflet.js, a third map style was added to the earthquake map. See [light style with the above deliverables also present]().
+Using JavaScript and Leaflet.js, a third map style was added to the earthquake map. See [light style with the above deliverables also present](https://github.com/josephrodini/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/lightMap.PNG).
 
 ## Summary
 
